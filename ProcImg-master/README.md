@@ -1,6 +1,7 @@
 Título do Projeto:
     Trabalho Final Processamento de Imagens
-
+Integrantes:
+    Luiza Xavier Nakahira
 Descrição dos descritores implementados:
     Foi usado o Hu Moments e o LBP
 
