@@ -29,3 +29,6 @@ Classificador e acurácia:
  nas linhas 19 e 26, é necessário alterar a função
  de extração dos dados para a função desejada no
  momento.
+
+Link do vídeo:
+    https://drive.google.com/file/d/15-bPGNIgg3HHcJwAnOiBEaArXNaoWoKg/view?usp=sharing
